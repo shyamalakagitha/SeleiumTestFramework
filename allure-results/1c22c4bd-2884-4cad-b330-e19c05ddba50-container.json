@@ -1,0 +1,1 @@
+{"uuid":"1c22c4bd-2884-4cad-b330-e19c05ddba50","name":"com.shyamala.test.driver.funtionaltests.BaseTest.logoutApplication","description":"","start":1569862976727,"stop":1569862976727,"children":["79ace474-952f-4d27-8898-fab9e65463e4"],"afters":[{"name":"logoutApplication","status":"passed","stage":"finished","description":"","start":1569862976727,"stop":1569862976727}]}
